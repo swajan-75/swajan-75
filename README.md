@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Swajan Barua</h1>
-<h3 align="center">Full Stack Engineer</h3>
 
 - 📫 How to reach me **swajanbarua09@gmail.com**
 
