@@ -1,31 +1,46 @@
-### Hi 👋, I'm Swajan Barua
 
-Full-Stack Engineer (TypeScript/Next.js, Python/FastAPI, NestJS) building AI-powered production SaaS — actively seeking full-stack and AI application engineering roles.
 
-**Current Focus:** I'm currently building the FastAPI backend and LLM integration layer for LyfFlow—a multi-tenant SaaS deploying autonomous customer support agents via the Meta Graph API—while deepening my expertise in LangChain and asynchronous LLM processing.
+# Hi, I'm Swajan 👋
 
----
+### Full-Stack Developer — TypeScript/NestJS/Next.js · Python/FastAPI · Go
 
-### 🚀 Flagship Project
-**[Career Leo](https://app.careerleo.com)** — An AI-powered recruitment platform built on a multi-tenant NestJS and PostgreSQL architecture, featuring intelligent OpenAI-driven resume parsing, a dual-audience JWT authentication system, and scalable asynchronous job processing using Redis and BullMQ.
+**Building multi-tenant SaaS products and AI-integrated backend systems for agency clients.**
 
----
-
-### 💻 Tech Stack
-* **Languages:** TypeScript, JavaScript, Python, Go, Java, C/C++
-* **Frameworks & Libraries:** Nest.JS, FastAPI, Next.js, React.js, Node.js, Socket.io
-* **Databases & ORMs:** PostgreSQL, MySQL, Redis, Prisma, SQLite, Firebase
-* **Tools & Integrations:** Docker, Git/GitHub, LangChain, OpenAI APIs, Stripe, Linux/Unix CLI
+[![Portfolio](https://img.shields.io/badge/Portfolio-swajan.dev-000000?logo=vercel&logoColor=white)](https://swajan.dev)
 
 ---
 
-### 📫 Connect With Me
-* **Portfolio:** [swajan.dev](https://swajan.dev)
-* **LinkedIn:** [linkedin.com/in/swajan-barua09](https://linkedin.com/in/swajan-barua09)
-* **Email:** [swajanbarua09@gmail.com](mailto:swajanbarua09@gmail.com)
+## 👨‍💻 About Me
+
+- Full-stack developer working across TypeScript (NestJS/Next.js), Python (FastAPI), and Go
+- BSc in Computer Science and Engineering (2026), American International University-Bangladesh
+- Currently building **Career Leo**, a multi-tenant HR SaaS platform, on a project basis for an agency
+- Open to full-stack roles — remote or based in Dhaka, Bangladesh
 
 ---
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=swajan-75&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" height="130" alt="GitHub Stats" />
-</div>
+## 🌟 Featured Work
+
+### 🏢 [Career Leo](https://www.octarnal.com/) — Multi-Tenant HR SaaS Platform
+*(Private repo — built for Octarnal agency)*
+
+- **The Mission:** Agencies managing HR across multiple client companies need a platform that keeps each company's data, roles, and workflows fully isolated — not a single-tenant HR tool stretched to fit.
+- **The Solution:** Built the Company/HR pillar end-to-end, including a multi-step employee onboarding flow driven by a bitmask-based state machine, a `CompanyMember` join table for multi-tenancy, and a `CompanyRoleGuard` enforcing per-company permissions via JWT claims (`companyId`, `companyRole`). AI integration (LangChain + OpenAI) powers HR-assist features. Deployed via Docker to a Contabo VPS, with payment handling migrating from Stripe to ColdPoint/NMI for one-time and recurring billing.
+- **Stack:** NestJS, Prisma, PostgreSQL, Redis, LangChain, OpenAI, Docker
+
+---
+
+## 🛠️ Tech Stack
+
+- **Languages:** TypeScript, Python, Go
+- **Frameworks:** NestJS, Next.js, FastAPI
+- **Databases:** PostgreSQL, Redis
+- **AI / LLM:** LangChain, OpenAI, Gemini
+- **Infra:** Docker
+
+---
+
+## 📫 Contact
+
+- Portfolio: [swajan.dev](https://swajan.dev)
+- Open to full-stack opportunities — remote or Dhaka, Bangladesh
