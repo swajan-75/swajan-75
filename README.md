@@ -7,7 +7,7 @@
     <span>Swajan Barua</span>
   </h1>
 
-  <h3>TypeScript &nbsp;|&nbsp; Python &nbsp;|&nbsp; Go</h3>
+  <h3>Backend-focused Full-Stack Engineer &nbsp;|&nbsp; NestJS &nbsp;|&nbsp; FastAPI &nbsp;|&nbsp; Next.js</h3>
 
   <!-- Portfolio + Location -->
   <a href="https://swajan.dev" target="_blank">
@@ -25,15 +25,16 @@
   <tr>
     <td width="55%" valign="top">
       <ul>
-        <li><img src="https://api.iconify.design/lucide/code-2.svg?color=%232563EB" width="20" height="20" align="absmiddle" alt="" /> <b>Full-Stack Developer</b></li>
+        <li><img src="https://api.iconify.design/lucide/code-2.svg?color=%232563EB" width="20" height="20" align="absmiddle" alt="" /> <b>Full-Stack Engineer</b>, mostly backend: APIs, payments, queues and integrations</li>
         <li><img src="https://api.iconify.design/lucide/graduation-cap.svg?color=%232563EB" width="20" height="20" align="absmiddle" alt="" /> <b>BSc in Computer Science and Engineering</b> (2026)<br><i>American International University-Bangladesh (AIUB)</i></li>
+        <li><img src="https://api.iconify.design/lucide/trophy.svg?color=%232563EB" width="20" height="20" align="absmiddle" alt="" /> 600+ problems solved on <a href="https://codeforces.com/profile/Swajan_">Codeforces</a>, 3× ICPC Dhaka preliminary</li>
       </ul>
     </td>
     <td width="45%" valign="top">
       <b><img src="https://api.iconify.design/lucide/zap.svg?color=%232563EB" width="20" height="20" align="absmiddle" alt="" /> Currently</b>
       <ul>
-        <li><img src="https://api.iconify.design/lucide/bot.svg?color=%232563EB" width="20" height="20" align="absmiddle" alt="" /> Exploring <b>LLM</b> integrations with LangChain</li>
-        <li><img src="https://api.iconify.design/lucide/briefcase.svg?color=%232563EB" width="20" height="20" align="absmiddle" alt="" /> Open to <b>remote</b> and <b>hybrid</b> full-stack roles</li>
+        <li><img src="https://api.iconify.design/lucide/bot.svg?color=%232563EB" width="20" height="20" align="absmiddle" alt="" /> Working on <b>LyfFlow</b>, AI sales agents for Facebook and Instagram sellers</li>
+        <li><img src="https://api.iconify.design/lucide/briefcase.svg?color=%232563EB" width="20" height="20" align="absmiddle" alt="" /> Open to <b>remote</b> and <b>hybrid</b> backend / full-stack roles</li>
       </ul>
     </td>
   </tr>
@@ -44,18 +45,18 @@
 <h2 align="center"><img src="https://api.iconify.design/lucide/wrench.svg?color=%232563EB" width="20" height="20" align="absmiddle" alt="" /> Tech Stack</h2>
 
 <div align="center">
-  <p><b>Core Languages</b></p>
-  <img src="https://skillicons.dev/icons?i=ts,js,python,go,cpp,cs" alt="Languages" />
+  <p><b>Languages</b></p>
+  <img src="https://skillicons.dev/icons?i=ts,js,python,go,java,cpp" alt="Languages" />
 
   <br><br>
 
   <p><b>Frameworks & Backend</b></p>
-  <img src="https://skillicons.dev/icons?i=nestjs,nextjs,react,fastapi,express,nodejs" alt="Frameworks" />
+  <img src="https://skillicons.dev/icons?i=nestjs,fastapi,nodejs,express,nextjs,react" alt="Frameworks" />
 
   <br><br>
 
-  <p><b>Database, Cloud & Tools</b></p>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,redis,mongodb,docker,git,github,postman" alt="Infra" />
+  <p><b>Databases & Tools</b></p>
+  <img src="https://skillicons.dev/icons?i=postgres,redis,mongodb,mysql,prisma,docker,git,githubactions,linux" alt="Databases and tools" />
 </div>
 
 <br>
@@ -64,32 +65,71 @@
 
 <table width="100%">
   <tr>
-    <td>
-      <h3 align="center"><img src="https://api.iconify.design/lucide/building-2.svg?color=%232563EB" width="20" height="20" align="absmiddle" alt="" /> Career Leo — Multi-Tenant HR SaaS Platform</h3>
-      <p><b>The Mission:</b> Agencies managing HR across multiple client companies need a platform that keeps each company's data, roles, and workflows fully isolated, not a single-tenant HR tool stretched to fit.</p>
-      <p><b>My Role:</b> Backend and full-stack development of the company and HR side of the platform.</p>
+    <td width="50%" valign="top">
+      <h3><img src="https://api.iconify.design/lucide/bot.svg?color=%232563EB" width="20" height="20" align="absmiddle" alt="" /> LyfFlow</h3>
+      <p>AI sales and support agents that answer Facebook and Instagram DMs and take orders for online sellers. Team product, live in production.</p>
+      <p><b>What I built:</b></p>
       <ul>
-        <li><b>Multi-Tenant Architecture:</b> Isolated data, roles, and permissions for each client company.</li>
-        <li><b>Workflow Automation:</b> Guided, multi-step onboarding flows for employees.</li>
-        <li><b>Secure Access Control:</b> Role-based authorization built on JWT authentication.</li>
-        <li><b>AI Integration:</b> LLM-powered features to assist HR teams.</li>
-        <li><b>Payments & Deployment:</b> Subscription billing integration and containerized deployment.</li>
+        <li>Instagram support: account connect, DM replies, comment moderation and 24 h / 7-day messaging windows</li>
+        <li>WooCommerce plugin sync: queued product sync with content hashing, retries and HMAC-signed order push</li>
+        <li>Per-API-key rate limiting, image conversion, and an image download worker with SSRF protection</li>
       </ul>
-      <div align="center">
-        <a href="https://app.careerleo.com" target="_blank">
-          <img src="https://img.shields.io/badge/app.careerleo.com-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="app.careerleo.com" />
-        </a>
-        <br><br>
-        <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" alt="NestJS"/>
-        <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" alt="Prisma"/>
-        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="Postgres"/>
-        <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis"/>
-        <img src="https://img.shields.io/badge/LangChain-121212?style=flat-square&logo=langchain&logoColor=white" alt="LangChain"/>
-        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
-      </div>
+      <a href="https://www.lyfflow.com"><img src="https://img.shields.io/badge/lyfflow.com-2563EB?style=flat-square&logo=googlechrome&logoColor=white" alt="lyfflow.com" /></a>
+      <br>
+      <sub>FastAPI · PostgreSQL · Redis/ARQ · Meta Graph API · WordPress/PHP</sub>
+    </td>
+    <td width="50%" valign="top">
+      <h3><img src="https://api.iconify.design/lucide/briefcase.svg?color=%232563EB" width="20" height="20" align="absmiddle" alt="" /> Career Leo</h3>
+      <p>Job search and recruitment platform for job seekers and companies. Team product, live and deployed on AWS.</p>
+      <p><b>What I built:</b></p>
+      <ul>
+        <li>Stripe and NMI subscription billing: proration, saved cards, auto-refund on failure, signed webhooks</li>
+        <li>Login with OTP and Google OAuth, the admin panel, and company onboarding and employee management</li>
+        <li>Real-time notifications with Socket.IO, Redis and BullMQ</li>
+      </ul>
+      <a href="https://app.careerleo.com"><img src="https://img.shields.io/badge/app.careerleo.com-2563EB?style=flat-square&logo=googlechrome&logoColor=white" alt="app.careerleo.com" /></a>
+      <br>
+      <sub>NestJS · TypeScript · PostgreSQL · Prisma · Redis/BullMQ · Socket.IO</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><img src="https://api.iconify.design/lucide/shopping-bag.svg?color=%232563EB" width="20" height="20" align="absmiddle" alt="" /> Rosee</h3>
+      <p>A live B2C online store.</p>
+      <ul>
+        <li>Next.js storefront and NestJS backend</li>
+        <li>Admin dashboard, Redis caching, and JWT and Google OAuth login</li>
+      </ul>
+      <a href="https://rosee.bd"><img src="https://img.shields.io/badge/rosee.bd-2563EB?style=flat-square&logo=googlechrome&logoColor=white" alt="rosee.bd" /></a>
+      <br>
+      <sub>Next.js · NestJS · PostgreSQL · Redis · Docker</sub>
+    </td>
+    <td width="50%" valign="top">
+      <h3><img src="https://api.iconify.design/lucide/image.svg?color=%232563EB" width="20" height="20" align="absmiddle" alt="" /> AI Poster Maker</h3>
+      <p>A web app that designs and renders Bangla posters from user input using Google Gemini.</p>
+      <ul>
+        <li>Background job queue for rendering with Puppeteer</li>
+        <li>AI content moderation, and CI with tests</li>
+      </ul>
+      <a href="https://github.com/swajan-75/ai_poster_maker"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
+      <br>
+      <sub>Next.js · Express · TypeScript · MongoDB · Gemini · Puppeteer</sub>
     </td>
   </tr>
 </table>
+
+<h3 align="center">Open Source</h3>
+
+<div align="center">
+
+| Project | What it is |
+|---|---|
+| [aiub-api](https://github.com/swajan-75/aiub-api) | Unofficial REST API for AIUB public data: faculty, notices, departments (NestJS) |
+| [adbx](https://github.com/swajan-75/adbx) | macOS / Linux desktop app that controls Android devices over ADB (Go, Wails, React) |
+| [Aiub_buddy](https://github.com/swajan-75/Aiub_buddy) | Android app for AIUB students with real-time notice alerts (Kotlin, Firebase, NestJS) |
+| [telegram-message-scheduler](https://github.com/swajan-75/telegram-message-scheduler) | Telegram bot that schedules and sends messages to a channel (Go) |
+
+</div>
 
 <br>
 
@@ -97,15 +137,16 @@
 
 <div align="center">
   <a href="https://swajan.dev">
-    <img src="https://img.shields.io/badge/Visit_My_Portfolio-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
   &nbsp;
-  <a href="mailto:YOUR-EMAIL@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  <a href="https://linkedin.com/in/swajan-barua09">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <!-- Optional: add LinkedIn
-  <a href="https://linkedin.com/in/YOUR-HANDLE"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  -->
+  &nbsp;
+  <a href="mailto:swajanbarua09@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 </div>
 
 <br>
