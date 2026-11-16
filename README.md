@@ -118,7 +118,7 @@
   </tr>
 </table>
 
-<h3 align="center">Open Source</h3>
+<h3 align="center"><img src="https://api.iconify.design/lucide/git-branch.svg?color=%232563EB" width="20" height="20" align="absmiddle" alt="" /> Open Source</h3>
 
 <div align="center">
 
